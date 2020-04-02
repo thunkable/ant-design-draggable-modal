@@ -38,8 +38,8 @@ export const initialModalsState: ModalsState = {
 export const initialModalState: ModalState = {
     x: 0,
     y: 0,
-    width: 800,
-    height: 800,
+    width: 660,
+    height: 520,
     zIndex: 0,
     visible: false,
 }
